@@ -1,0 +1,1 @@
+// Archivo base para clinica_panel.js
